@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\bin\Debug\netcoreapp3.1\ex23.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex23\obj\Debug\netcoreapp3.1\ex23.genruntimeconfig.cache
